@@ -18,7 +18,7 @@ variable "instance_type" {
 
 variable "ami_id" {
   type    = string
-  default = "ami-03fa4afc89e4a8a09"
+  default = 
 }
 
 variable "volume_type" {
