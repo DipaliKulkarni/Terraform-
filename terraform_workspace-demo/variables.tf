@@ -35,7 +35,7 @@ variable "ec2_key_name" {
 
 variable "subnet_name" {
   type    = string
-  default = "subnet-04893cdb768d0f9ee"
+  default = "subnet-0af989e5e5a2651ee"
 }
 
 variable "tag_values" {
