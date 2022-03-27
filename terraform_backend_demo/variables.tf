@@ -11,5 +11,5 @@ variable "ami_id" {
 
 variable "key_name" {
   type    = string
-  default = "devops2022"
+  default = "AWS_demo"
 }
